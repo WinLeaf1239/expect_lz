@@ -13,6 +13,7 @@ class Obrabotka:
             print(f'Возникла следующая ошибка: [Errno2] No such file or directory: {self.file}')
 
         
+        
 
         
 
