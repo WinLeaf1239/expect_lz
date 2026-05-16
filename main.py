@@ -1,0 +1,3 @@
+import proverka
+
+proverka.main()
